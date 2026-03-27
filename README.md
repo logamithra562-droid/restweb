@@ -477,6 +477,11 @@ contact.html
 
 
 ## OUTPUT:
+![alt text](output1.png)
+![alt text](output2.png)
+![alt text](output3.png)
+!![alt text](output4.png)
+
 
 
 ## RESULT:
